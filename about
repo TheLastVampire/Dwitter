@@ -1,0 +1,25 @@
+Please find below the details of your project, viz. Dwitter:
+
+We want you to make Dwitter, which was what Twitter is, before Twitter was Twitter.
+
+Using Django, make a RESTful API, which allows the dweeter to:
+- View all the dweets from followed folks
+- Add new dweets
+- Like someone’s dweet
+- Comment on the dweet
+- Search and follow new dweeters
+- Search dweets
+- Create new account (Auth)
+
+Conditions:
+- You can use any 3rd party libraries.
+- There should not be duplicate data entries in the database, eg: dweets.
+- Push your code to GitHub and share the URL with us. Please be sure to not mention “Draup” in your repository to avoid leaking answers.
+
+Please share the repository link with us. We do a plagiarism check on your answers so please make sure the code is not copied.
+
+You will also be evaluated on organization of the code and code quality.
+
+Please note that the due date for this assignment is March 24 (Sunday). Feel free to revert in case of any clarification.
+
+Wish you all the best!
