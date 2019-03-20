@@ -46,7 +46,7 @@ lmodBy
 isActive
 }
 
-FollowedDweeters = {
+FollowedDweeter = {
 id
 dweeterId
 followerDweeterId
