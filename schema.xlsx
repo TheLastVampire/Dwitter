@@ -1,0 +1,58 @@
+Dweet = {
+id
+dweeterId
+text
+likeCount
+crDate
+crBy
+lmodDate
+lmodBy
+isActive
+}
+
+DweeterId = {
+id
+username
+pswd
+fullname
+country
+crDate
+crBy
+lmodDate
+lmodBy
+isActive
+}
+
+Comment = {
+id
+dweetId
+commenterId
+text
+crDate
+crBy
+lmodDate
+lmodBy
+isActive
+}
+
+Like = {
+id
+dweetId
+likedBy
+crDate
+crBy
+lmodDate
+lmodBy
+isActive
+}
+
+FollowedDweeters = {
+id
+dweeterId
+followerDweeterId
+crDate
+crBy
+lmodDate
+lmodBy
+isActive
+}
