@@ -35,7 +35,7 @@ lmodBy
 isActive
 }
 
-Like = {
+Liked = {
 id
 dweetId
 likedBy
