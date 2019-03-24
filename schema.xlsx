@@ -10,7 +10,7 @@ lmodBy
 isActive
 }
 
-DweeterId = {
+Dweeter = {
 id
 username
 pswd
